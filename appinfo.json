@@ -1,0 +1,24 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "unholycurses@gmail.com",
+    "longName": "Tutorial",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Tutorial",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "79e77fa3-0b3e-4918-ad41-2bf8e6f7f7f9",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
